@@ -1,0 +1,80 @@
+*{
+    font-family:Roboto ;
+}
+
+
+ul{
+display: flex;
+gap : 50px;
+color: #505F98;
+}
+
+
+.nav{
+display: flex;
+gap : 260px;
+align-items: start;
+}
+
+
+.Landing-Text{
+text-align: center;
+justify-content: center;
+margin-left: 20px;
+color: #37447E;
+font-size: larger;
+margin-top: -10px;
+}
+
+
+.list-nav{
+margin-left: 40px;
+}
+
+.button1{
+text-align: right;
+margin-top: 13px;
+margin-left: 20px;
+ 
+}
+
+button{
+background-color:  #111B47;
+
+color: white;
+width: 160px;
+height: 26px;
+text-decoration: none;
+box-shadow: none;
+border: none;
+border-radius: 2px;
+}
+
+
+button label{
+width: 160px;
+height: 18px;
+top: 4px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+
+li{
+text-decoration: none;
+list-style: none;
+color: #505F98;
+}
+
+
+a{
+text-decoration: none;
+color:#505F98;
+}
+
+
+#button{
+color: white;
+}
