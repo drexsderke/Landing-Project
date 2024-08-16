@@ -2,6 +2,13 @@
     font-family:Roboto ;
 }
 
+body {
+    background-image: url(res/gear\ illustration.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 50%; /* adjust this value to fit your image size */
+    background-attachment: fixed;
+}
 
 ul{
 display: flex;
