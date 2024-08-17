@@ -85,3 +85,41 @@ color:#505F98;
 #button{
 color: white;
 }
+
+body {
+    background-image: url(res/gear\ illustration.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 57%; 
+    
+        }
+        .info-area{
+            margin-top: 140px;
+            margin-left: 155px;
+            
+        }
+
+        #introH1{
+            font-weight: 500;
+            font-size: 50px;
+        }
+        p{
+            font-size: 14px;
+            color: #505F98;
+        }
+        #Purchase{
+            background-color: #111B47;
+            color: white;
+            
+        }
+        #Learn{
+            background-color: white;
+            border-color: black;
+            border: 2px solid;
+            color: #091133;
+            
+        }
+        .ButtonsClass{
+            display: flex;
+            gap: 28px;
+        }
